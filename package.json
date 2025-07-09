@@ -1,0 +1,21 @@
+{
+  "name": "romantic-website",
+  "version": "1.0.0",
+  "description": "A romantic website project dedicated to my girlfriend, featuring animations and a beautiful design.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "romantic",
+    "website",
+    "love",
+    "animation"
+  ],
+  "author": "dhyacos",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
